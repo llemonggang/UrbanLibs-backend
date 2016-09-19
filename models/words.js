@@ -209,171 +209,171 @@ var wordsArr = [
   },
 //added verbs
   {
-    word: 'Kill',
+    word: 'kill',
     type: 'verb'
   },
   {
-    word: 'Burn',
+    word: 'burn',
     type: 'verb'
   },
   {
-    word: 'Accelerate',
+    word: 'accelerate',
     type: 'verb'
   },
   {
-    word: 'Identify',
+    word: 'identify',
     type: 'verb'
   },
   {
-    word: 'Decide',
+    word: 'decide',
     type: 'verb'
   },
   {
-    word: 'Receive',
+    word: 'receive',
     type: 'verb'
   },
   {
-    word: 'Sell',
+    word: 'sell',
     type: 'verb'
   },
   {
-    word: 'Walk',
+    word: 'walk',
     type: 'verb'
   },
   {
-    word: 'Create',
+    word: 'create',
     type: 'verb'
   },
   {
-    word: 'Miss',
+    word: 'miss',
     type: 'verb'
   },
   {
-    word: 'Poke',
+    word: 'poke',
     type: 'verb'
   },
   {
-    word: 'Remember',
+    word: 'remember',
     type: 'verb'
   },
   {
-    word: 'Express',
+    word: 'express',
     type: 'verb'
   },
   {
-    word: 'Captivate',
+    word: 'captivate',
     type: 'verb'
   },{
-    word: 'Advocate',
+    word: 'advocate',
     type: 'verb'
   },
   // added noun
   {
-    word: 'Lips',
+    word: 'lips',
     type: 'noun'
   },
   {
-    word: 'Hand',
+    word: 'hand',
     type: 'noun'
   },
   {
-    word: 'Fish',
+    word: 'fish',
     type: 'noun'
   },
   {
-    word: 'Milk Shake',
+    word: 'milk Shake',
     type: 'noun'
   },
   {
-    word: 'Popsicle',
+    word: 'popsicle',
     type: 'noun'
   },
   {
-    word: 'Chocolate',
+    word: 'chocolate',
     type: 'noun'
   },
   {
-    word: 'Radio',
+    word: 'radio',
     type: 'noun'
   },
   {
-    word: 'Texas',
+    word: 'texas',
     type: 'noun'
   },
   {
-    word: 'Scooter',
+    word: 'scooter',
     type: 'noun'
   },
   {
-    word: 'Riely',
+    word: 'riely',
     type: 'noun'
   },
   {
-    word: 'We Work',
+    word: 'we Work',
     type: 'noun'
   },
   {
-    word: 'General Assembly',
+    word: 'general assembly',
     type: 'noun'
   },
   {
-    word: 'Austin',
+    word: 'austin',
     type: 'noun'
   },
   {
-    word: 'Banana',
+    word: 'banana',
     type: 'noun'
   },
   {
-    word: 'Helmet',
+    word: 'helmet',
     type: 'noun'
   },
   {
-    word: 'Karate',
+    word: 'karate',
     type: 'noun'
   },
   {
-    word: 'Idiot',
+    word: 'idiot',
     type: 'noun'
   },
   {
-    word: 'Leash',
+    word: 'leash',
     type: 'noun'
   },
   {
-    word: 'Shark',
+    word: 'shark',
     type: 'noun'
   },
   {
-    word: 'Dinosaur',
+    word: 'dinosaur',
     type: 'noun'
   },
   {
-    word: 'Bubble Butt',
+    word: 'bubble butt',
     type: 'noun'
   },
   {
-    word: 'Taco',
+    word: 'taco',
     type: 'noun'
   },
   {
-    word: 'Rotten egg',
+    word: 'rotten egg',
     type: 'noun'
   },
   {
-    word: 'Git hub',
+    word: 'git hub',
     type: 'noun'
   },
   {
-    word: 'Stinky socks',
+    word: 'stinky socks',
     type: 'noun'
   },
   {
-    word: 'Lipstick',
+    word: 'lipstick',
     type: 'noun'
   },
   {
-    word: 'Mike',
+    word: 'mike',
     type: 'noun'
   },
   {
@@ -381,13 +381,12 @@ var wordsArr = [
     type: 'noun'
   },
   {
-    word: 'Refried bean',
+    word: 'refried bean',
     type: 'noun'
   },
   {
-    word: 'Hot dog',
+    word: 'hot dog',
     type: 'noun'
   },
-
 
 ]
