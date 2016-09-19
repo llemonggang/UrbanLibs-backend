@@ -209,185 +209,184 @@ var wordsArr = [
   },
 //added verbs
   {
-    word: 'Kill',
+    word: 'kill',
     type: 'verb'
   },
   {
-    word: 'Burn',
+    word: 'party hats',
     type: 'verb'
   },
   {
-    word: 'Accelerate',
+    word: 'fapioca',
     type: 'verb'
   },
   {
-    word: 'Identify',
+    word: 'identify',
     type: 'verb'
   },
   {
-    word: 'Decide',
+    word: 'hit the slopes',
     type: 'verb'
   },
   {
-    word: 'Receive',
+    word: 'fireass',
     type: 'verb'
   },
   {
-    word: 'Sell',
+    word: 'suckeranium',
     type: 'verb'
   },
   {
-    word: 'Walk',
+    word: 'roflstomped',
     type: 'verb'
   },
   {
-    word: 'Create',
+    word: 'raphke',
     type: 'verb'
   },
   {
-    word: 'Miss',
+    word: 'drinkspiration ',
     type: 'verb'
   },
   {
-    word: 'Poke',
+    word: 'suckerfice',
     type: 'verb'
   },
   {
-    word: 'Remember',
+    word: 'humanoidrobotic',
     type: 'verb'
   },
   {
-    word: 'Express',
+    word: 'captivate',
     type: 'verb'
   },
   {
-    word: 'Captivate',
+    word: 'fappable',
     type: 'verb'
   },{
-    word: 'Advocate',
+    word: 'irish exit',
     type: 'verb'
   },
   // added noun
   {
-    word: 'Lips',
+    word: 'chapped lips',
     type: 'noun'
   },
   {
-    word: 'Hand',
+    word: 'beaver',
     type: 'noun'
   },
   {
-    word: 'Fish',
+    word: 'fresh meat',
     type: 'noun'
   },
   {
-    word: 'Milk Shake',
+    word: 'milk Shake',
     type: 'noun'
   },
   {
-    word: 'Popsicle',
+    word: 'popsicle',
     type: 'noun'
   },
   {
-    word: 'Chocolate',
+    word: 'pink chewies',
     type: 'noun'
   },
   {
-    word: 'Radio',
+    word: 'watermellons',
     type: 'noun'
   },
   {
-    word: 'Texas',
+    word: 'bobambas',
     type: 'noun'
   },
   {
-    word: 'Scooter',
+    word: 'tugce',
     type: 'noun'
   },
   {
-    word: 'Riely',
+    word: 'nupies',
     type: 'noun'
   },
   {
-    word: 'We Work',
+    word: 'starter buttons',
     type: 'noun'
   },
   {
-    word: 'General Assembly',
+    word: 'golden winnebagoes',
     type: 'noun'
   },
   {
-    word: 'Austin',
+    word: 'md 20/20',
     type: 'noun'
   },
   {
-    word: 'Banana',
+    word: 'yasi',
     type: 'noun'
   },
   {
-    word: 'Helmet',
+    word: 'minger',
     type: 'noun'
   },
   {
-    word: 'Karate',
+    word: 'libtard',
     type: 'noun'
   },
   {
-    word: 'Idiot',
+    word: 'idiot',
     type: 'noun'
   },
   {
-    word: 'Leash',
+    word: 'kanjar',
     type: 'noun'
   },
   {
-    word: 'Shark',
+    word: 'buttaface',
     type: 'noun'
   },
   {
-    word: 'Dinosaur',
+    word: 'whispering eye',
     type: 'noun'
   },
   {
-    word: 'Bubble Butt',
+    word: 'bubble butt',
     type: 'noun'
   },
   {
-    word: 'Taco',
+    word: 'pink taco',
     type: 'noun'
   },
   {
-    word: 'Rotten egg',
+    word: 'canadiache',
     type: 'noun'
   },
   {
-    word: 'Git hub',
+    word: 'git hub',
     type: 'noun'
   },
   {
-    word: 'Stinky socks',
+    word: 'chuggaaconroy',
     type: 'noun'
   },
   {
-    word: 'Lipstick',
+    word: 'lipstick',
     type: 'noun'
   },
   {
-    word: 'Mike',
+    word: 'anderface',
     type: 'noun'
   },
   {
-    word: 'iPhone',
+    word: 'bärenjäger',
     type: 'noun'
   },
   {
-    word: 'Refried bean',
+    word: 'keemstar',
     type: 'noun'
   },
   {
-    word: 'Hot dog',
+    word: 'hipster ',
     type: 'noun'
   },
-
 
 ]
