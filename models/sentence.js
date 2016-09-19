@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
 
-var sentenceScema = {
-  sentence: String,
-}
+var sentenceSchema = new mongoose.Schema ({
+  sentence:  String
+})
 
 const Sentence = mongoose.model('Sentence', sentenceSchema);
 

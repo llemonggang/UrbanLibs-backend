@@ -6,7 +6,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var mongoose = require('mongoose');
-var gi = require(`gitignore`);
+// var gi = require(`gitignore`);
 
 mongoose.connect(process.env.DB_CONNECTION)
 
