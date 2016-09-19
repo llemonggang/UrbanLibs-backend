@@ -1,9 +1,9 @@
 const mongoose = require('mongoose');
 
-var wordScema = {
+var wordSchema = new mongoose.Schema({
   word: String,
   type: String
-}
+})
 
 const Word = mongoose.model('Word', wordSchema);
 
