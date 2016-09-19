@@ -12,6 +12,9 @@ var sentenceArr = [
   {
     sentence: 'The girl <span>VERB</span> her <span>NOUN</span> and it was  <span>ADJECTIVE</span>.'
   },
+  {
+    sentence: 'The boy <span>VERB</span> her <span>NOUN</span> and it was  <span>ADJECTIVE</span>.'
+  },
 
 ].forEach(function(sentenceObject) {
   var sentence = new Sentence(sentenceObject)
