@@ -10,10 +10,10 @@ var Sentence = require('./models/sentence');
 
 var sentenceArr = [
   {
-    sentence: 'The girl <span>VERB</span> her <span>NOUN</span> and it was  <span>ADJECTIVE</span>.'
+    sentence: 'The girl VERB her NOUN and it was ADJECTIVE.'
   },
   {
-    sentence: 'The boy <span>VERB</span> her <span>NOUN</span> and it was  <span>ADJECTIVE</span>.'
+    sentence: 'The boy VERB his NOUN and it was ADJECTIVE.'
   },
 
 ].forEach(function(sentenceObject) {
