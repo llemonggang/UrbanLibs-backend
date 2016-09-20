@@ -14,6 +14,7 @@ mongoose.connect(process.env.DB_CONNECTION)
 var routes = require('./routes/index');
 var users = require('./routes/users');
 var sentences = require('./routes/sentences');
+var words = require('./routes/words');
 
 var app = express();
 
@@ -33,6 +34,7 @@ app.use(cors());
 app.use('/', routes);
 app.use('/users', users);
 app.use('/sentences', sentences);
+app.use('/words', words);
 
 
 
