@@ -63,75 +63,45 @@ var sentenceArr = [
   {
     sentence: 'No man goes before his time - unless NOUN leaves early.'
   },
-  // {
-  //   sentence: ""
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
-  // {
-  //   sentence: ''
-  // },
+  {
+    sentence: "ADJECTIVE donuts, always wind up in NOUN mouth."
+  },
+  {
+    sentence: 'I like NOUN; it ADJECTIVE me. I can VERB and look at it for hours.'
+  },
+  {
+    sentence: "No one's dream job involves a NOUN."
+  },
+  {
+    sentence: 'NOUN really needs a day between Saturday and Sunday.'
+  },
+  {
+    sentence: 'I need to stop being so damn ADJECTIVE.'
+  },
+  {
+    sentence: "Dont worry NOUN is coming."
+  },
+  {
+    sentence: 'NOUN change, things go ADJECTIVE, VERB happens, life goes on.'
+  },
+  {
+    sentence: 'NOUN your life or your VERB.'
+  },
+  {
+    sentence: 'I wish i could see it form ADJECTIVE perspective.'
+  },
+  {
+    sentence: "Don't ADJECTIVE your VERB, coz' it's your dream job."
+  },
+  {
+    sentence: "You don't have to ADJECTIVE to wrok herr. We will train you. "
+  },
+  {
+    sentence: 'Today was going great, until ADJECTIVE NOUN showed up.'
+  },
+  {
+    sentence: "I'm busy you are NOUN, so  VERB."
+  },
 
 
 
