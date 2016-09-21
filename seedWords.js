@@ -307,7 +307,7 @@ var wordsArr = [
     type: 'noun'
   },
   {
-    word: 'md 20/20',
+    word: 'english muffin top',
     type: 'noun'
   },
   {
