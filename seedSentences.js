@@ -34,19 +34,19 @@ var sentenceArr = [
     sentence: 'Oh my god, VERB that NOUN.'
   },
   {
-    sentence: "I stepped on a NOUN, now I'm a NOUN."
+    sentence: "Don't let the NOUN,"
   },
   {
     sentence: 'ADJECTIVE, the NOUN decided to attack.'
   },
   {
-    sentence: "It's better to be NOUN than NOUN "
+    sentence: "It's better to be NOUN than nobody."
   },
   {
     sentence: 'How can this happen, only NOUN can do this.'
   },
   {
-    sentence: 'I am a NOUN. NOUN is perfect. Therefore, I am NOUN.'
+    sentence: "My body is ADJECTIVE, that I VERB, myself. "
   },
   {
     sentence: "People say nothing is ADJECTIVE, but I do nothing every day."
@@ -60,7 +60,81 @@ var sentenceArr = [
   {
     sentence: 'I like being ADJECTIVE.'
   },
-  
+  {
+    sentence: 'No man goes before his time - unless NOUN leaves early.'
+  },
+  // {
+  //   sentence: ""
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+  // {
+  //   sentence: ''
+  // },
+
+
+
 
 
 ].forEach(function(sentenceObject) {
