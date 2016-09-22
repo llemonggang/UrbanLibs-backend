@@ -5,9 +5,19 @@ var random = require('mongoose-random');
 
 
 router.get('/random', function(req, res, next) {
-  Word.findRandom().limit(1).exec(function (err, words) {
-    console.log(words);
-    res.json(words)
+  Word.findRandom({ type: 'noun' }).limit(1).exec(function (err, noun) {
+
+    Word.findRandom({ type: 'verb'}).limit(1).exec(function (err, verb) {
+
+      Word.findRandom({ type: 'adjective'}).limit(1).exec(function (err, adjective) {
+
+        res.json({
+          noun: noun,
+          verb: verb,
+          adjective: adjective
+        })
+      })
+    })
   })
 })
 
