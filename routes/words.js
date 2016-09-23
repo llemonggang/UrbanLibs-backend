@@ -23,7 +23,7 @@ router.get('/random', function(req, res, next) {
 })
 
 router.get('/define/:word', function(req, res, next) {
-  var wordToDefine = req.params.word;
+  var wordToDefine = decodeURIComponent(req.params.word);
 
   // http://api.urbandictionary.com/v0/define?term= + wordToDefine
 
