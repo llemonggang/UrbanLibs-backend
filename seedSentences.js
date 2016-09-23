@@ -34,16 +34,16 @@ var sentenceArr = [
     sentence: 'Oh my god, VERB that NOUN.'
   },
   {
-    sentence: "Don't let the NOUN,"
+    sentence: "Don't let the NOUN run your life. You've got to VERB til you own it."
   },
   {
-    sentence: 'ADJECTIVE, the NOUN decided to attack.'
+    sentence: 'The NOUN decided to attack and it was ADJECTIVE.'
   },
   {
     sentence: "It's better to be NOUN than nobody."
   },
   {
-    sentence: 'How can this happen, only NOUN can do this.'
+    sentence: 'How can this happen? Only NOUN can do this.'
   },
   {
     sentence: "My body is ADJECTIVE, that I VERB, myself. "
@@ -64,7 +64,7 @@ var sentenceArr = [
     sentence: 'No man goes before his time - unless NOUN leaves early.'
   },
   {
-    sentence: "ADJECTIVE donuts, always wind up in NOUN mouth."
+    sentence: "ADJECTIVE donuts, always wind up in my mouth."
   },
   {
     sentence: 'I like NOUN; it ADJECTIVE me. I can VERB and look at it for hours.'
@@ -79,28 +79,28 @@ var sentenceArr = [
     sentence: 'I need to stop being so damn ADJECTIVE.'
   },
   {
-    sentence: "Dont worry NOUN is coming."
+    sentence: "Dont worry, NOUN is coming."
   },
   {
     sentence: 'NOUN change, things go ADJECTIVE, VERB happens, life goes on.'
   },
   {
-    sentence: 'NOUN your life or your VERB.'
+    sentence: 'NOUN your life, or your VERB.'
   },
   {
-    sentence: 'I wish i could see it form ADJECTIVE perspective.'
+    sentence: 'I wish I could see it form ADJECTIVE perspective.'
   },
   {
     sentence: "Don't ADJECTIVE your VERB, coz' it's your dream job."
   },
   {
-    sentence: "You don't have to ADJECTIVE to wrok herr. We will train you. "
+    sentence: "You don't have to be ADJECTIVE to work here. We will train you. "
   },
   {
     sentence: 'Today was going great, until ADJECTIVE NOUN showed up.'
   },
   {
-    sentence: "I'm busy you are NOUN, so  VERB."
+    sentence: "I'm busy and you are NOUN, so VERB."
   },
 
 
