@@ -22,8 +22,8 @@ router.get('/random', function(req, res, next) {
   })
 })
 
-router.get('/define/:word', function(req, res, next) {
-  var wordToDefine = decodeURIComponent(req.params.word);
+router.get('/define', function(req, res, next) {
+  var wordToDefine = decodeURIComponent(req.query.word);
 
   // http://api.urbandictionary.com/v0/define?term= + wordToDefine
 
