@@ -29,7 +29,7 @@ router.get('/define', function(req, res, next) {
 
   http.get({
         host: 'api.urbandictionary.com',
-        path: '/v0/define?term=' + wordToDefine
+        path: '/v0/define?term=' + encodeURIComponent(wordToDefine)
     }, function(response) {
         var body = '';
 
