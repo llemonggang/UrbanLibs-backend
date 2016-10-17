@@ -16,7 +16,7 @@ var sentenceArr = [
     sentence: 'The boy VERB his NOUN and it was ADJECTIVE.'
   },
   {
-    sentence: 'Be carefull not to vaccum the NOUN when you clean under your bed.'
+    sentence: 'Be careful not to vaccum the NOUN when you clean under your bed.'
   },
   {
     sentence: 'I like my hot dogs with mustard, relish and NOUN.'
@@ -88,7 +88,7 @@ var sentenceArr = [
     sentence: 'NOUN your life, or your VERB.'
   },
   {
-    sentence: 'I wish I could see it form ADJECTIVE perspective.'
+    sentence: 'I wish I could see it from ADJECTIVE perspective.'
   },
   {
     sentence: "Don't ADJECTIVE your VERB, coz' it's your dream job."
